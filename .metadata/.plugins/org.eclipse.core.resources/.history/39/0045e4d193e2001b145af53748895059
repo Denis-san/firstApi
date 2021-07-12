@@ -1,0 +1,5 @@
+package com.san.firstApi.repository;
+
+public interface ProductRepository {
+
+}

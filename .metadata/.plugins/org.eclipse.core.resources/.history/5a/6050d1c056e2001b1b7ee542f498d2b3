@@ -1,0 +1,7 @@
+spring.datasource.url=jdbc:postgresql://localhost:5432/db-api-rest-course
+spring.datasource.username=jaoAdmin
+spring.datasource.password=0743
+spring.datasource.driver-class-name=org.postgresql.Driver
+spring.jpa.show-sql=true
+
+spring.jpa.hibernate.ddl-auto=update

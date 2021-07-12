@@ -1,0 +1,5 @@
+package com.san.firstApi.model;
+
+public class Product {
+
+}
